@@ -184,6 +184,7 @@
 nav{
     margin-bottom: 10px;
 }
+/* This is where media querry started from */
 @media  (max-width:1200px) {
     .menu-media{
         display: flex;
